@@ -139,7 +139,7 @@ export default function Home() {
                 <animated.div style={fadeOut}
                               className="fixed inset-0 bg-white z-50 flex flex-col items-center justify-center overflow-hidden">
                     <animated.div style={textAnimation} className="text-center z-10">
-                        <h1 className="text-7xl font-bold text-black mb-4">임당클</h1>
+                        <h1 className="text-7xl font-bold text-black mb-4">허당클</h1>
                         <p className="text-3xl text-gray-600">임철호 당구 클럽</p>
                     </animated.div>
                     <div className="absolute top-1/2 flex justify-center items-center">
